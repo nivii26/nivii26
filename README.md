@@ -1,5 +1,5 @@
-Hi, I'm Niveditha Nerella 👋
-Data Scientist & AI Engineer — turning raw data into real decisions.
+# Hi, I'm Niveditha Nerella 👋
+### Data Scientist & AI Engineer — turning raw data into real decisions.
 
 <img src="./linkedin_ds_ai_header.svg" alt="Data Science / AI Engineer" width="100%"/>
 
