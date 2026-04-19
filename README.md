@@ -1,4 +1,9 @@
 ## Hi there 👋
+# Your Name
+
+<img src="./linkedin_ds_ai_header.svg" alt="Data Science / AI Engineer" width="100%"/>
+
+Data Scientist & AI Engineer with experience in...
 
 <!--
 **nivii26/nivii26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
